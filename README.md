@@ -1,1 +1,1 @@
-dc for communication: yepturkish
+dc: yepturkish
