@@ -1,0 +1,7 @@
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\bin\Debug\CG-ExternalSharp.exe.config
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\bin\Debug\CG-ExternalSharp.exe
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\bin\Debug\CG-ExternalSharp.pdb
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\obj\Debug\CG-ExternalSharp.csproj.AssemblyReference.cache
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\obj\Debug\CG-ExternalSharp.csproj.CoreCompileInputs.cache
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\obj\Debug\CG-ExternalSharp.exe
+C:\Users\emre\source\repos\CG-ExternalSharp\CG-ExternalSharp\obj\Debug\CG-ExternalSharp.pdb
